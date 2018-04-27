@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "色阶", "色阶\色阶.vcproj", "{4754E917-E6BF-45FA-86B7-F645743C3615}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Levels adjustment", "Levels adjustment\Levels adjustment.vcproj", "{543F7088-C018-4ED6-B5F9-354DC13BACFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4754E917-E6BF-45FA-86B7-F645743C3615}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4754E917-E6BF-45FA-86B7-F645743C3615}.Debug|Win32.Build.0 = Debug|Win32
+		{4754E917-E6BF-45FA-86B7-F645743C3615}.Release|Win32.ActiveCfg = Release|Win32
+		{4754E917-E6BF-45FA-86B7-F645743C3615}.Release|Win32.Build.0 = Release|Win32
+		{543F7088-C018-4ED6-B5F9-354DC13BACFC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{543F7088-C018-4ED6-B5F9-354DC13BACFC}.Debug|Win32.Build.0 = Debug|Win32
+		{543F7088-C018-4ED6-B5F9-354DC13BACFC}.Release|Win32.ActiveCfg = Release|Win32
+		{543F7088-C018-4ED6-B5F9-354DC13BACFC}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
